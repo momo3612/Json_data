@@ -1,4 +1,4 @@
-const liste_site = [
+[
     {
         nom: "Deezer",
         url: "https://www.deezer.com/fr/",
